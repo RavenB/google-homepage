@@ -1,0 +1,99 @@
+.container{
+    width: 100%;
+    position: absolute;
+    left: 0px;
+    height: 100%;
+}
+
+.centralPanel {
+  margin: auto;
+  top: 0;
+  left: 0;
+  bottom: 0;
+  right: 0;
+  height:200px;
+  width:543px;
+  position:absolute;
+}
+
+.central {
+    display: block;
+    margin-right: auto;
+    margin-left: auto;
+}
+
+.img-responsive {
+	display: block;
+    max-width: 100%;
+    height: auto;
+}
+
+.logo-subtext {
+    color: #4285f4;
+    font: 16px roboto-regular, arial, sans-serif;
+    position: relative;
+    white-space: nowrap;
+	float: right;
+    top: -16px;
+    left: -144px;
+}
+
+.microphone {
+	background: url(img/microphone.png) no-repeat -3px 0;
+    background-size: 24px 24px;
+    display: inline-block;
+    height: 23px;
+    width: 17px;
+    vertical-align: middle;
+	float:right;
+	padding: 0 2px;
+}
+
+.search {
+	display: inline-block;
+    margin-bottom: 0;
+    vertical-align: middle;
+	width:100%;
+	margin:1em 0 0 0;
+	border: 1px solid #d9d9d9;
+	height:26px;
+	padding: 6px 9px;
+}
+
+.search:focus {
+	border: 1px solid #4285f4;
+}
+
+.search input {
+	width:90%;
+	height:26px;
+	border:0;
+}
+
+.buttons {
+	padding-top:18px;
+	text-align:center;
+}
+
+input[type="submit"]{
+    height: 36px;
+    line-height: 27px;
+	background-color: #f2f2f2;
+    border: 1px solid #f2f2f2;
+    border-radius: 2px;
+    color: #757575;
+    font-family: arial,sans-serif;
+    font-size: 13px;
+    font-weight: bold;
+    margin: 11px 4px;
+    min-width: 54px;
+    padding: 0 16px;
+    text-align: center;
+	cursor:default;
+}
+
+input[type="submit"]:hover{ 
+	border: 1px solid #c6c6c6;
+    box-shadow: 0 1px 1px rgba(0,0,0,0.1);
+    color: #222;
+}
