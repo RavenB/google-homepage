@@ -1,6 +1,8 @@
 # Google homepage project
 
-Project for HTML/CSS section in the Odin project by Viking Code School
-Find the project here: http://www.theodinproject.com/web-development-101/html-css?ref=lnav
+HTML/CSS Project for the Odin Project. 
 
-HTML version here: https://htmlpreview.github.io/?https://github.com/sushimi/google-homepage/blob/master/index.html
+[Find the project page here](http://www.theodinproject.com/web-development-101/html-css?ref=lnav)
+
+[HTML version of my solution here](https://htmlpreview.github.io/?https://github.com/sushimi/google-homepage/blob/master/index.html)
+
