@@ -169,6 +169,18 @@ footer {
     border-top: 1px solid #e4e4e4;
 }
 
+@-moz-document url-prefix() {
+    footer {
+        height:auto;
+    }
+}
+
+@-moz-document url-prefix() {
+    footer {
+        line-height:0;
+    }
+}
+
 .footerList ul {
 	-webkit-margin-before: 0;
     -webkit-margin-after: 0;
